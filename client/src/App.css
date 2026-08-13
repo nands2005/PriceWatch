@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+}
+
+button,
+a {
+  transition: all 0.2s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+}
