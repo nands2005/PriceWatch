@@ -3,10 +3,10 @@ An Amazon price monitoring and alert system that tracks product prices, detects 
 
 ## Tech Stack
 
-**Frontend:** React, Vite, Bootstrap, Axios, React Router
-**Backend:** Node.js, Express.js, Mongoose, JWT, bcrypt, node-cron, Nodemailer
-**Database:** MongoDB Atlas
-**External API:** Amazon Product Data API through RapidAPI
+1.**Frontend:** React, Vite, Bootstrap, Axios, React Router
+2.**Backend:** Node.js, Express.js, Mongoose, JWT, bcrypt, node-cron, Nodemailer
+3.**Database:** MongoDB Atlas
+4.**External API:** Amazon Product Data API through RapidAPI
 
 How It Works
 
