@@ -1,29 +1,14 @@
 # PriceWatch
 An Amazon price monitoring and alert system that tracks product prices, detects price drops, and sends email notifications when the target price is reached.
 
-## Features
-
-- User registration and login
-- JWT authentication
-- Add Amazon products using product URL
-- Automatic ASIN extraction
-- Fetch current Amazon price
-- Set target price
-- Automatic price monitoring
-- Price drop detection
-- Price history
-- Email alerts
-- In-app price notifications
-- Search, filter, and sort products
-
-## Tech Stack
+Tech Stack
 
 **Frontend:** React, Vite, Bootstrap, Axios, React Router
 **Backend:** Node.js, Express.js, Mongoose, JWT, bcrypt, node-cron, Nodemailer
 **Database:** MongoDB Atlas
 **External API:** Amazon Product Data API through RapidAPI
 
-## How It Works
+How It Works
 
 1. User logs in and adds an Amazon product URL.
 2. PriceWatch extracts the ASIN and fetches the current product price.
