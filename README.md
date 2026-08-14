@@ -1,7 +1,7 @@
 # PriceWatch
 An Amazon price monitoring and alert system that tracks product prices, detects price drops, and sends email notifications when the target price is reached.
 
-Tech Stack
+##Tech Stack
 
 **Frontend:** React, Vite, Bootstrap, Axios, React Router
 **Backend:** Node.js, Express.js, Mongoose, JWT, bcrypt, node-cron, Nodemailer
